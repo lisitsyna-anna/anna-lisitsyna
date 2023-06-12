@@ -14,7 +14,8 @@ Tools: VScode, Webpack, Parcel, Figma
 I'm always open to new possibilities and collaborations. If you have an exciting project or opportunity, feel free to reach out!
 
 ## Let's Connect
-Email: anna.lisitsyna93@gmail.com
-LinkedIn: (https://www.linkedin.com/in/annalisitsyna/)
-Telegram: https://t.me/anna_lisitsyna
+- Email: anna.lisitsyna93@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/annalisitsyna/)
+- Telegram: https://t.me/anna_lisitsyna
+
 Feel free to explore my repositories and get in touch. Let's build something amazing together! 🚀
