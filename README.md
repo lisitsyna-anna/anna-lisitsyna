@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Anna Lisitsina, a passionate Full Stack Developer with a special love for Frontend development.
+I'm Anna Lisitsyna, a passionate Full Stack Developer with a special love for Frontend development.
 
 ## About Me
 
@@ -23,7 +23,7 @@ opportunity, feel free to reach out!
 ## Let's Connect
 
 - Email: anna.lisitsyna93@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/annalisitsyna/)
+- LinkedIn: https://www.linkedin.com/in/annalisitsyna/
 - Telegram: https://t.me/anna_lisitsyna
 
 Feel free to explore my repositories and get in touch. Let's build something amazing together! 🚀
