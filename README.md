@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Anna Lisitsyna, a passionate Full Stack Developer with a special love for Frontend development.
+I'm Hanna Lisitsyna, a passionate Full Stack Developer with a special love for Frontend development.
 
 ## About Me
 
